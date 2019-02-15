@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/noti_menu_item"
+        android:title="Notification" />
+    <item
+        android:id="@+id/fav_menu_item"
+        android:title="Favroute" />
+    <item
+        android:id="@+id/setting_menu_item"
+        android:title="Settings" />
+    <item
+        android:id="@+id/logout_menu_item"
+        android:title="Logout" />
+</menu>
